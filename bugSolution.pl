@@ -1,0 +1,1 @@
+my @array = (1..10); for my $i (0..$#array -1){print "Value at index $i is $array[$i]\n";}
