@@ -1,0 +1,1 @@
+This repository contains a Perl script demonstrating a common off-by-one error during array iteration and its solution. The bug.pl file shows the erroneous code, while bugSolution.pl provides the corrected version.  The error arises from incorrectly handling the upper bound of the loop index when accessing array elements.
